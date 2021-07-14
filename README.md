@@ -1,6 +1,10 @@
 # EARLY PREDICTION OF MORTALITY RISK AMONG COVID-19 PATIENTS
 ### Btech Thesis project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-xKr6dSdk1LKg3aN6wEy0hbMoaNjyF32#scrollTo=oPgH_GRDbJqi)
+<br>
+
+
 <!-- ![image](https://user-images.githubusercontent.com/43993467/125559094-178dcdcf-a718-41cc-a082-ab14db24605b.png) -->
 
 <img src="https://user-images.githubusercontent.com/43993467/125559094-178dcdcf-a718-41cc-a082-ab14db24605b.png" width="256">
