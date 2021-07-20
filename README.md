@@ -58,3 +58,8 @@ The class which get most votes is our predicted class.**
 17. **NN with Keras**
 18. **Voting classifier**
 
+
+## RESULT
+
+![image](https://user-images.githubusercontent.com/43993467/126252838-6fb03f00-8bd0-4314-b3d9-5cbd48a79cbe.png)
+
