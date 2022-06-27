@@ -4,6 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-xKr6dSdk1LKg3aN6wEy0hbMoaNjyF32#scrollTo=oPgH_GRDbJqi)
 <br>
 
+**PUBLISHED A RESEARCH PAPER**: [https://ieeexplore.ieee.org/abstract/document/9751945](https://ieeexplore.ieee.org/abstract/document/9751945)
 
 <!-- ![image](https://user-images.githubusercontent.com/43993467/125559094-178dcdcf-a718-41cc-a082-ab14db24605b.png) -->
 
